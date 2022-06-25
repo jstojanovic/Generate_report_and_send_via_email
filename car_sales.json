@@ -1,0 +1,56 @@
+[
+{
+        "id": 47,
+        "car": {
+                "car_make": "Lamborghini",
+                "car_model": "Murciélago",
+                "car_year": 2002
+        },
+        "price": "$13724.05",
+        "total_sales": 149
+},
+{
+        "id": 48,
+        "car": {
+                "car_make": "mercedes",
+                "car_model": "benz",
+                "car_year": 2003
+        },
+        "price": "$10223.05",
+        "total_sales": 249
+},
+{"id": 100,"car":{ "car_make":"opel","car_model":"astra","car_year":2003},"price":"$1023.05","total_sales": 3349},
+{"id": 101,"car":{ "car_make":"dacia","car_model":"exp","car_year":2004},"price":"$123.05","total_sales": 39},
+{"id": 102,"car":{ "car_make":"alfa Romeo","car_model":"romeo","car_year":2003},"price":"$1500.05","total_sales": 2229},
+{"id": 104,"car":{ "car_make":"Ural","car_model":"volga","car_year":2004},"price":"$1023.05","total_sales": 9},
+{ "id": 50,
+        "car": {
+                "car_make": "audi",
+                "car_model": "a6",
+                "car_year": 2012
+        },
+        "price": "$23999.05",
+        "total_sales": 549
+},
+{
+        "id": 12,
+        "car": {
+                "car_make": "Volkswagen",
+                "car_model": "Golf5",
+                "car_year": 2000
+        },
+        "price": "$1223.05",
+        "total_sales": 1249
+},
+{
+        "id": 11,
+        "car": {
+                "car_make": "Lada",
+                "car_model": "Niva",
+                "car_year": 1998
+        },
+        "price": "$323.05",
+        "total_sales": 649
+}
+
+]
